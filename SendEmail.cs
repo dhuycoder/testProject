@@ -18,7 +18,7 @@ namespace TestThreeLayerProject2
         static SendEmail sendEmail = new SendEmail();
         DangNhapBus dnbus = new DangNhapBus();
         Random random = new Random();
-        int randomNumber;
+        
         public SendEmail()
         {
             sendEmail = this;
