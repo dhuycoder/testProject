@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestThreeLayerProject2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ae7d9651293e94da63f19bf7c1f6fcd313177e2")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestThreeLayerProject2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestThreeLayerProject2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

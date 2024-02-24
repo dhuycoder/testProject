@@ -19,6 +19,7 @@ namespace TestThreeLayerProject2
         DangNhapBus dnbus = new DangNhapBus();
         Random random = new Random();
         int randomNumber;
+        int newNumber = 0;
         public SendEmail()
         {
             sendEmail = this;

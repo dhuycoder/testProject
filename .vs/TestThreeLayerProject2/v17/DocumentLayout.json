@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\TestThreeLayerProject2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{02EADCE4-2A29-4644-B2AC-987E0F6D070C}|TestThreeLayerProject2.csproj|c:\\users\\admin\\source\\repos\\testthreelayerproject2\\sendemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02EADCE4-2A29-4644-B2AC-987E0F6D070C}|TestThreeLayerProject2.csproj|solutionrelative:sendemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EADCE4-2A29-4644-B2AC-987E0F6D070C}|TestThreeLayerProject2.csproj|C:\\Users\\ADMIN\\source\\repos\\TestThreeLayerProject2\\sendemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02EADCE4-2A29-4644-B2AC-987E0F6D070C}|TestThreeLayerProject2.csproj|solutionrelative:sendemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{02EADCE4-2A29-4644-B2AC-987E0F6D070C}|TestThreeLayerProject2.csproj|c:\\users\\admin\\source\\repos\\testthreelayerproject2\\menurightform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{02EADCE4-2A29-4644-B2AC-987E0F6D070C}|TestThreeLayerProject2.csproj|solutionrelative:menurightform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -75,10 +83,6 @@
       "RelativeMoniker": "D:0:0:{02EADCE4-2A29-4644-B2AC-987E0F6D070C}|TestThreeLayerProject2.csproj|solutionrelative:form2.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02EADCE4-2A29-4644-B2AC-987E0F6D070C}|TestThreeLayerProject2.csproj|C:\\Users\\ADMIN\\source\\repos\\TestThreeLayerProject2\\sendemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{02EADCE4-2A29-4644-B2AC-987E0F6D070C}|TestThreeLayerProject2.csproj|solutionrelative:sendemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C437F905-BD0F-4FFA-A19E-A0A09BD5C3FF}|..\\DAO\\DAO.csproj|c:\\users\\admin\\source\\repos\\dao\\sinhviendal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -106,22 +110,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MenuControl.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\TestThreeLayerProject2\\MenuControl.cs",
-              "RelativeDocumentMoniker": "MenuControl.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\TestThreeLayerProject2\\MenuControl.cs [Design]",
-              "RelativeToolTip": "MenuControl.cs [Design]",
+              "DocumentIndex": 0,
+              "Title": "SendEmail.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\TestThreeLayerProject2\\SendEmail.cs",
+              "RelativeDocumentMoniker": "SendEmail.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\TestThreeLayerProject2\\SendEmail.cs",
+              "RelativeToolTip": "SendEmail.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-22T13:36:36.773Z"
+              "WhenOpened": "2024-02-24T04:11:45.197Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MenuRightForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\TestThreeLayerProject2\\MenuRightForm.cs",
               "RelativeDocumentMoniker": "MenuRightForm.cs",
@@ -133,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Form3.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\TestThreeLayerProject2\\Form3.cs",
               "RelativeDocumentMoniker": "Form3.cs",
@@ -144,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Form5.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\TestThreeLayerProject2\\Form5.cs",
               "RelativeDocumentMoniker": "Form5.cs",
@@ -155,7 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "MenuControl.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\TestThreeLayerProject2\\MenuControl.cs",
               "RelativeDocumentMoniker": "MenuControl.cs",
@@ -167,7 +173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Form3.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\TestThreeLayerProject2\\Form3.cs",
               "RelativeDocumentMoniker": "Form3.cs",
@@ -179,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Form2.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\TestThreeLayerProject2\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
@@ -191,7 +197,30 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
+              "Title": "SendEmail.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\TestThreeLayerProject2\\SendEmail.cs",
+              "RelativeDocumentMoniker": "SendEmail.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\TestThreeLayerProject2\\SendEmail.cs [Design]",
+              "RelativeToolTip": "SendEmail.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T12:39:24.933Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MenuControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\TestThreeLayerProject2\\MenuControl.cs",
+              "RelativeDocumentMoniker": "MenuControl.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\TestThreeLayerProject2\\MenuControl.cs [Design]",
+              "RelativeToolTip": "MenuControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T13:36:36.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "MenuRightForm.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\TestThreeLayerProject2\\MenuRightForm.cs",
               "RelativeDocumentMoniker": "MenuRightForm.cs",
@@ -203,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Form4.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\TestThreeLayerProject2\\Form4.cs",
               "RelativeDocumentMoniker": "Form4.cs",
@@ -214,7 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Form4.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\TestThreeLayerProject2\\Form4.cs",
               "RelativeDocumentMoniker": "Form4.cs",
@@ -226,7 +255,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Form2.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\TestThreeLayerProject2\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
@@ -237,7 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Form5.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\TestThreeLayerProject2\\Form5.cs",
               "RelativeDocumentMoniker": "Form5.cs",
@@ -249,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "TestThreeLayerProject2",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\TestThreeLayerProject2\\TestThreeLayerProject2.csproj",
               "RelativeDocumentMoniker": "TestThreeLayerProject2.csproj",
@@ -260,7 +289,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Resources.resx",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\TestThreeLayerProject2\\Properties\\Resources.resx",
               "RelativeDocumentMoniker": "Properties\\Resources.resx",
@@ -271,7 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "Form2.Designer.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\TestThreeLayerProject2\\Form2.Designer.cs",
               "RelativeDocumentMoniker": "Form2.Designer.cs",
@@ -283,7 +312,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\TestThreeLayerProject2\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -294,7 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Form3.Designer.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\TestThreeLayerProject2\\Form3.Designer.cs",
               "RelativeDocumentMoniker": "Form3.Designer.cs",
@@ -306,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\TestThreeLayerProject2\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Form1.Designer.cs",
@@ -318,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\WinFormsApp3\\Form1.cs",
               "RelativeDocumentMoniker": "..\\WinFormsApp3\\Form1.cs",
@@ -329,7 +358,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "SinhVienBUS.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\BUSS\\SinhVienBUS.cs",
               "RelativeDocumentMoniker": "..\\BUSS\\SinhVienBUS.cs",
@@ -341,7 +370,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "Form2.resx",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\TestThreeLayerProject2\\Form2.resx",
               "RelativeDocumentMoniker": "Form2.resx",
@@ -352,18 +381,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "SendEmail.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\TestThreeLayerProject2\\SendEmail.cs",
-              "RelativeDocumentMoniker": "SendEmail.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\TestThreeLayerProject2\\SendEmail.cs [Design]",
-              "RelativeToolTip": "SendEmail.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-21T12:39:24.933Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "SinhVien.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\DAO\\SinhVien.cs",
               "RelativeDocumentMoniker": "..\\DAO\\SinhVien.cs",
@@ -375,7 +393,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "SinhVienDAl.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\DAO\\SinhVienDAl.cs",
               "RelativeDocumentMoniker": "..\\DAO\\SinhVienDAl.cs",
@@ -387,7 +405,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\TestThreeLayerProject2\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",

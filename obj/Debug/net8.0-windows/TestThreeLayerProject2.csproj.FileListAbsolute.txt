@@ -153,3 +153,4 @@ C:\Users\ADMIN\source\repos\TestThreeLayerProject2\obj\Debug\net8.0-windows\Test
 C:\Users\ADMIN\source\repos\TestThreeLayerProject2\obj\Debug\net8.0-windows\TestThreeLayerProject2.Properties.Resources.resources
 C:\Users\ADMIN\source\repos\TestThreeLayerProject2\obj\Debug\net8.0-windows\TestThreeLayerProject2.Form5.resources
 C:\Users\ADMIN\source\repos\TestThreeLayerProject2\obj\Debug\net8.0-windows\TestThreeLayerProject2.MenuRightForm.resources
+C:\Users\ADMIN\source\repos\TestThreeLayerProject2\obj\Debug\net8.0-windows\TestThreeLayerProject2.sourcelink.json
