@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestThreeLayerProject2", "TestThreeLayerProject2.csproj", "{02EADCE4-2A29-4644-B2AC-987E0F6D070C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAO", "..\DAO\DAO.csproj", "{C437F905-BD0F-4FFA-A19E-A0A09BD5C3FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BUSS", "..\BUSS\BUSS.csproj", "{1A7BC6F0-6B19-4786-BDE3-6CD0CEE0926F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02EADCE4-2A29-4644-B2AC-987E0F6D070C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02EADCE4-2A29-4644-B2AC-987E0F6D070C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02EADCE4-2A29-4644-B2AC-987E0F6D070C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02EADCE4-2A29-4644-B2AC-987E0F6D070C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C437F905-BD0F-4FFA-A19E-A0A09BD5C3FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C437F905-BD0F-4FFA-A19E-A0A09BD5C3FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C437F905-BD0F-4FFA-A19E-A0A09BD5C3FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C437F905-BD0F-4FFA-A19E-A0A09BD5C3FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A7BC6F0-6B19-4786-BDE3-6CD0CEE0926F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A7BC6F0-6B19-4786-BDE3-6CD0CEE0926F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A7BC6F0-6B19-4786-BDE3-6CD0CEE0926F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A7BC6F0-6B19-4786-BDE3-6CD0CEE0926F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0B3F799-96C7-484C-93E6-C100D4EFD50D}
+	EndGlobalSection
+EndGlobal
