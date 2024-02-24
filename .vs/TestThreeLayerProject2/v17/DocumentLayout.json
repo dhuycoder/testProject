@@ -11,7 +11,11 @@
       "RelativeMoniker": "D:0:0:{02EADCE4-2A29-4644-B2AC-987E0F6D070C}|TestThreeLayerProject2.csproj|solutionrelative:sendemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02EADCE4-2A29-4644-B2AC-987E0F6D070C}|TestThreeLayerProject2.csproj|c:\\users\\admin\\source\\repos\\testthreelayerproject2\\menurightform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{02EADCE4-2A29-4644-B2AC-987E0F6D070C}|TestThreeLayerProject2.csproj|C:\\Users\\ADMIN\\source\\repos\\TestThreeLayerProject2\\menucontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02EADCE4-2A29-4644-B2AC-987E0F6D070C}|TestThreeLayerProject2.csproj|solutionrelative:menucontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EADCE4-2A29-4644-B2AC-987E0F6D070C}|TestThreeLayerProject2.csproj|C:\\Users\\ADMIN\\source\\repos\\TestThreeLayerProject2\\menurightform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{02EADCE4-2A29-4644-B2AC-987E0F6D070C}|TestThreeLayerProject2.csproj|solutionrelative:menurightform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{02EADCE4-2A29-4644-B2AC-987E0F6D070C}|TestThreeLayerProject2.csproj|C:\\Users\\ADMIN\\source\\repos\\TestThreeLayerProject2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02EADCE4-2A29-4644-B2AC-987E0F6D070C}|TestThreeLayerProject2.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02EADCE4-2A29-4644-B2AC-987E0F6D070C}|TestThreeLayerProject2.csproj|C:\\Users\\ADMIN\\source\\repos\\TestThreeLayerProject2\\menucontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02EADCE4-2A29-4644-B2AC-987E0F6D070C}|TestThreeLayerProject2.csproj|solutionrelative:menucontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{02EADCE4-2A29-4644-B2AC-987E0F6D070C}|TestThreeLayerProject2.csproj|C:\\Users\\ADMIN\\source\\repos\\TestThreeLayerProject2\\menucontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -120,26 +120,14 @@
               "RelativeDocumentMoniker": "SendEmail.cs",
               "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\TestThreeLayerProject2\\SendEmail.cs",
               "RelativeToolTip": "SendEmail.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAZAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-24T04:11:45.197Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MenuRightForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\TestThreeLayerProject2\\MenuRightForm.cs",
-              "RelativeDocumentMoniker": "MenuRightForm.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\TestThreeLayerProject2\\MenuRightForm.cs [Design]",
-              "RelativeToolTip": "MenuRightForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-23T13:56:43.629Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Form3.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\TestThreeLayerProject2\\Form3.cs",
               "RelativeDocumentMoniker": "Form3.cs",
@@ -161,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "MenuControl.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\TestThreeLayerProject2\\MenuControl.cs",
               "RelativeDocumentMoniker": "MenuControl.cs",
@@ -169,7 +157,8 @@
               "RelativeToolTip": "MenuControl.cs",
               "ViewState": "AQIAABEAAAAAAAAAAAAvwB0AAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-22T13:37:03.109Z"
+              "WhenOpened": "2024-02-22T13:37:03.109Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -185,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Form2.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\TestThreeLayerProject2\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
@@ -209,6 +198,17 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuRightForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\TestThreeLayerProject2\\MenuRightForm.cs",
+              "RelativeDocumentMoniker": "MenuRightForm.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\TestThreeLayerProject2\\MenuRightForm.cs [Design]",
+              "RelativeToolTip": "MenuRightForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T13:56:43.629Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
               "Title": "MenuControl.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\TestThreeLayerProject2\\MenuControl.cs",
@@ -216,7 +216,8 @@
               "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\TestThreeLayerProject2\\MenuControl.cs [Design]",
               "RelativeToolTip": "MenuControl.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-22T13:36:36.773Z"
+              "WhenOpened": "2024-02-22T13:36:36.773Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
